@@ -1,0 +1,11 @@
+
+2021/09 
+加入了elmah nlog for Log
+AutoMap for ViewModel
+
+csvHelp FORＣＳＳ
+EEPLUS FOR EXCEL
+
+預計加入 word ,excel ,fileUpload 
+
+datatables Fullcalandar

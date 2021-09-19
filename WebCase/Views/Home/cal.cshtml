@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "cal";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>cal</h2>
+@using (Html.BeginForm())
+{
+
+    @Html.TextBox("a")
+    @Html.TextBox("b")
+    <input type="submit"  value="SUBMIT"/>
+}
+

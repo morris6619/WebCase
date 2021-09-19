@@ -1,0 +1,27 @@
+===================================
+  發生時間：2021-09-17 22:19:57.1269
+  類別：WebCase.Controllers.BaseController
+  訊息：輸入字串格式不正確。
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult cal(System.Web.Mvc.FormCollection)]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-17 22:43:17.1425
+  類別：WebCase.Controllers.BaseController
+  訊息：
+要求虛擬路徑：/Home/cal
+要求原始URL：/Home/cal
+例外類型：FormatException
+例外訊息：輸入字串格式不正確。
+例外來源：mscorlib
+Stack Trace：   於 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   於 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   於 System.Int32.Parse(String s)
+   於 WebCase.Controllers.HomeController.cal(FormCollection collection) 於 C:\Users\MORRIS\source\repos\WebCase\WebCase\Controllers\HomeController.cs: 行 33
+TargetSite ：Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult cal(System.Web.Mvc.FormCollection)]
+  例外堆疊：
+   ====================================
+

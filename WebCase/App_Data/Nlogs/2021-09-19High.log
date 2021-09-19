@@ -1,0 +1,555 @@
+===================================
+  發生時間：2021-09-19 11:10:36.0915
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Warn的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 11:10:36.0915
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Error的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 11:10:36.0915
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Fatal的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 11:18:56.2543
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Warn的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 11:18:56.2543
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Error的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 11:18:56.2737
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Fatal的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 11:53:56.2675
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Warn的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 11:53:56.2795
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Error的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 11:53:56.2795
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Fatal的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 12:32:06.8483
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Warn的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 12:32:06.8483
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Error的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 12:32:06.8553
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Fatal的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 14:24:10.7648
+  類別：WebCase.Controllers.BaseController
+  訊息：
+要求虛擬路徑：/
+要求原始URL：/
+例外類型：MissingMethodException
+例外訊息：這個物件沒有定義無參數的建構函式。
+例外來源：mscorlib
+Stack Trace：   於 System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   於 System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   於 System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   於 System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   於 System.Activator.CreateInstance(Type type)
+   於 AutoMapper.Configuration.MapperConfigurationExpression.AddProfile(Type profileType)
+   於 AutoMapper.Configuration.MapperConfigurationExpression.AddProfilesCore(IEnumerable`1 assembliesToScan)
+   於 AutoMapper.Configuration.MapperConfigurationExpression.AddProfiles(Assembly[] assembliesToScan)
+   於 WebCase.Controllers.BaseController.<>c.<.ctor>b__4_0(IMapperConfigurationExpression cfg) 於 C:\Users\MORRIS\source\repos\WebCase\WebCase\Controllers\BaseController.cs: 行 21
+   於 AutoMapper.MapperConfiguration.Build(Action`1 configure)
+   於 AutoMapper.MapperConfiguration..ctor(Action`1 configure)
+   於 WebCase.Controllers.BaseController..ctor() 於 C:\Users\MORRIS\source\repos\WebCase\WebCase\Controllers\BaseController.cs: 行 21
+TargetSite ：System.Object CreateInstance(System.RuntimeType, Boolean, Boolean, Boolean ByRef, System.RuntimeMethodHandleInternal ByRef, Boolean ByRef)
+
+  方法：[System.Object CreateInstance(System.RuntimeType, Boolean, Boolean, Boolean ByRef, System.RuntimeMethodHandleInternal ByRef, Boolean ByRef)] => [Void .ctor()] => [Void .ctor()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 14:24:10.8400
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Warn的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 14:24:10.8400
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Error的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 14:24:10.8400
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Fatal的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 15:28:05.3019
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Warn的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 15:28:05.3108
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Error的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 15:28:05.3108
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Fatal的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:00:19.5553
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Warn的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:00:19.5553
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Error的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:00:19.5553
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Fatal的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:13:48.5203
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Warn的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:13:48.5292
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Error的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:13:48.5292
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Fatal的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:16:55.6331
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Warn的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:16:55.6331
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Error的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:16:55.6331
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Fatal的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:18:03.0728
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Warn的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:18:03.0728
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Error的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:18:03.0728
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Fatal的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:18:16.3571
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Warn的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:18:16.3571
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Error的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:18:16.3571
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Fatal的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:18:33.9546
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Warn的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:18:33.9546
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Error的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:18:33.9546
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Fatal的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:18:37.4288
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Warn的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:18:37.4288
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Error的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:18:37.4288
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Fatal的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:18:53.4748
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Warn的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:18:53.4748
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Error的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:18:53.4748
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Fatal的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:19:17.6453
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Warn的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:19:17.6453
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Error的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:19:17.6503
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Fatal的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:19:20.3799
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Warn的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:19:20.3799
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Error的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:19:20.3842
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Fatal的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:19:25.8411
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Warn的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:19:25.8411
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Error的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:19:25.8411
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Fatal的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:19:37.1448
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Warn的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:19:37.1448
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Error的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:19:37.1448
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Fatal的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:20:00.0445
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Warn的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:20:00.0445
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Error的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:20:00.0445
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Fatal的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:20:04.2911
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Warn的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:20:04.2911
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Error的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:20:04.2911
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Fatal的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:21:16.9921
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Warn的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:21:16.9921
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Error的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:21:16.9921
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Fatal的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:21:48.4355
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Warn的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:21:48.4355
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Error的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
+===================================
+  發生時間：2021-09-19 21:21:48.4355
+  類別：WebCase.Controllers.BaseController
+  訊息：這是Fatal的訊息
+  方法：[System.Object Execute(System.Web.Mvc.ControllerBase, System.Object[])] => [System.Object lambda_method(System.Runtime.CompilerServices.Closure, System.Web.Mvc.ControllerBase, System.Object[])] => [System.Web.Mvc.ActionResult Index()]
+  例外堆疊：
+   ====================================
+
